@@ -32,14 +32,20 @@ Data is stored in text files for persistence, simulating a basic banking system 
 ## Example Screens
 
 ========================================
+
         Login Screen
+        
 ========================================
+
 Enter Account Number?: 1234
 Enter PinCode?: 4321
 
 ========================================
+
         ATM Main Menu Screen
+        
 ========================================
+
  [1] Quick Withdraw
  [2] Normal Withdraw
  [3] Deposit
