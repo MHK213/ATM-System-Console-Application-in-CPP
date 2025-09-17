@@ -1,0 +1,7 @@
+﻿  ATM System (Console-based).cpp
+C:\Users\DELL\Desktop\Programming Advices\Projects\ATM System (Console-based)\ATM System (Console-based)\ATM System (Console-based).cpp(31,25): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\DELL\Desktop\Programming Advices\Projects\ATM System (Console-based)\ATM System (Console-based)\ATM System (Console-based).cpp(285,10): warning C4129: 'N': unrecognized character escape sequence
+C:\Users\DELL\Desktop\Programming Advices\Projects\ATM System (Console-based)\ATM System (Console-based)\ATM System (Console-based).cpp(369,10): warning C4129: 'A': unrecognized character escape sequence
+C:\Users\DELL\Desktop\Programming Advices\Projects\ATM System (Console-based)\ATM System (Console-based)\ATM System (Console-based).cpp(389,11): warning C4129: 'L': unrecognized character escape sequence
+C:\Users\DELL\Desktop\Programming Advices\Projects\ATM System (Console-based)\ATM System (Console-based)\ATM System (Console-based).cpp(228,1): warning C4715: 'GetQuickWithdrawAmount': not all control paths return a value
+  ATM System (Console-based).vcxproj -> C:\Users\DELL\Desktop\Programming Advices\Projects\ATM System (Console-based)\x64\Debug\ATM System (Console-based).exe
