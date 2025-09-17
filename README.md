@@ -38,6 +38,7 @@ Data is stored in text files for persistence, simulating a basic banking system 
 ========================================
 
 Enter Account Number?: 1234
+
 Enter PinCode?: 4321
 
 ========================================
@@ -47,9 +48,13 @@ Enter PinCode?: 4321
 ========================================
 
  [1] Quick Withdraw
+ 
  [2] Normal Withdraw
+ 
  [3] Deposit
+ 
  [4] Check Balance
+ 
  [5] Logout
 
  ---
